@@ -7,8 +7,8 @@ require "rails_admin_resend_invitation/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_resend_invitation"
   s.version     = RailsAdminResendInvitation::VERSION
-  s.authors     = ["Marco V. Aguilar Soto", "Alex Levy"]
-  s.email       = ["marco@aguilarsoto.com", "alex.levy@arcadiasolutions.com"]
+  s.authors     = ["Marco V. Aguilar Soto", "Alex Levy", "Alex Bowman"]
+  s.email       = ["marco@aguilarsoto.com", "alex.levy@arcadiasolutions.com", "alex.bowman@arcadiasolutions.com"]
   s.summary     = "Re-send invitations using Devise"
   s.description = "This custom Rails Admin action will resend Devise invitations to users"
 
